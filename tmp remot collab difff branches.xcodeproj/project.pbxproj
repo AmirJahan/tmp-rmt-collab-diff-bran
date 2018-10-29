@@ -12,6 +12,15 @@
 		29A366B021879BB400269543 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29A366AE21879BB400269543 /* Main.storyboard */; };
 		29A366B221879BB500269543 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29A366B121879BB500269543 /* Assets.xcassets */; };
 		29A366B521879BB500269543 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29A366B321879BB500269543 /* LaunchScreen.storyboard */; };
+		29A366C52187A44D00269543 /* 137646854.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29A366BC2187A44C00269543 /* 137646854.jpg */; };
+		29A366C62187A44D00269543 /* image-editing-101040_1280.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29A366BD2187A44C00269543 /* image-editing-101040_1280.jpg */; };
+		29A366C72187A44D00269543 /* Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29A366BE2187A44C00269543 /* Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg */; };
+		29A366C82187A44D00269543 /* 485745110-612x612.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29A366BF2187A44C00269543 /* 485745110-612x612.jpg */; };
+		29A366C92187A44D00269543 /* 15311623965b43af1cbf5012.58969934.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29A366C02187A44C00269543 /* 15311623965b43af1cbf5012.58969934.jpg */; };
+		29A366CA2187A44D00269543 /* flower.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29A366C12187A44C00269543 /* flower.jpg */; };
+		29A366CB2187A44D00269543 /* gettyimages-705351545.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29A366C22187A44D00269543 /* gettyimages-705351545.jpg */; };
+		29A366CC2187A44D00269543 /* img_lights.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29A366C32187A44D00269543 /* img_lights.jpg */; };
+		29A366CD2187A44D00269543 /* opportunities-pics-of-an-owl-barred-national-geographic-768x768.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29A366C42187A44D00269543 /* opportunities-pics-of-an-owl-barred-national-geographic-768x768.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +31,15 @@
 		29A366B121879BB500269543 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		29A366B421879BB500269543 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		29A366B621879BB600269543 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		29A366BC2187A44C00269543 /* 137646854.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 137646854.jpg; sourceTree = "<group>"; };
+		29A366BD2187A44C00269543 /* image-editing-101040_1280.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "image-editing-101040_1280.jpg"; sourceTree = "<group>"; };
+		29A366BE2187A44C00269543 /* Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg"; sourceTree = "<group>"; };
+		29A366BF2187A44C00269543 /* 485745110-612x612.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "485745110-612x612.jpg"; sourceTree = "<group>"; };
+		29A366C02187A44C00269543 /* 15311623965b43af1cbf5012.58969934.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 15311623965b43af1cbf5012.58969934.jpg; sourceTree = "<group>"; };
+		29A366C12187A44C00269543 /* flower.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flower.jpg; sourceTree = "<group>"; };
+		29A366C22187A44D00269543 /* gettyimages-705351545.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "gettyimages-705351545.jpg"; sourceTree = "<group>"; };
+		29A366C32187A44D00269543 /* img_lights.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img_lights.jpg; sourceTree = "<group>"; };
+		29A366C42187A44D00269543 /* opportunities-pics-of-an-owl-barred-national-geographic-768x768.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "opportunities-pics-of-an-owl-barred-national-geographic-768x768.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				29A366AA21879BB400269543 /* AppDelegate.swift */,
+				29A366CE2187A45000269543 /* images */,
 				29A366AC21879BB400269543 /* ViewController.swift */,
 				29A366AE21879BB400269543 /* Main.storyboard */,
 				29A366B121879BB500269543 /* Assets.xcassets */,
@@ -62,6 +81,22 @@
 				29A366B621879BB600269543 /* Info.plist */,
 			);
 			path = "tmp remot collab difff branches";
+			sourceTree = "<group>";
+		};
+		29A366CE2187A45000269543 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				29A366BC2187A44C00269543 /* 137646854.jpg */,
+				29A366BF2187A44C00269543 /* 485745110-612x612.jpg */,
+				29A366C02187A44C00269543 /* 15311623965b43af1cbf5012.58969934.jpg */,
+				29A366C12187A44C00269543 /* flower.jpg */,
+				29A366C22187A44D00269543 /* gettyimages-705351545.jpg */,
+				29A366BD2187A44C00269543 /* image-editing-101040_1280.jpg */,
+				29A366C32187A44D00269543 /* img_lights.jpg */,
+				29A366C42187A44D00269543 /* opportunities-pics-of-an-owl-barred-national-geographic-768x768.jpg */,
+				29A366BE2187A44C00269543 /* Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +157,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				29A366C62187A44D00269543 /* image-editing-101040_1280.jpg in Resources */,
+				29A366CD2187A44D00269543 /* opportunities-pics-of-an-owl-barred-national-geographic-768x768.jpg in Resources */,
+				29A366C82187A44D00269543 /* 485745110-612x612.jpg in Resources */,
+				29A366C52187A44D00269543 /* 137646854.jpg in Resources */,
+				29A366CC2187A44D00269543 /* img_lights.jpg in Resources */,
+				29A366C72187A44D00269543 /* Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg in Resources */,
 				29A366B521879BB500269543 /* LaunchScreen.storyboard in Resources */,
+				29A366CB2187A44D00269543 /* gettyimages-705351545.jpg in Resources */,
+				29A366C92187A44D00269543 /* 15311623965b43af1cbf5012.58969934.jpg in Resources */,
 				29A366B221879BB500269543 /* Assets.xcassets in Resources */,
 				29A366B021879BB400269543 /* Main.storyboard in Resources */,
+				29A366CA2187A44D00269543 /* flower.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
